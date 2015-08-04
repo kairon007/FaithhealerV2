@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Darko/Desktop/UI%20UPDATE/za%20codecanyon/UPDATE/android/android%20-%20AS/android-support-v7-appcompat/res/values-port/bools.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs">false</bool>
+</resources>

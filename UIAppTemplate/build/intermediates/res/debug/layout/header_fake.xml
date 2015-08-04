@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ken_burns_header"
+    android:orientation="vertical" >
+    
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Darko/Desktop/UI%20UPDATE/za%20codecanyon/UPDATE/android/android%20-%20AS/UIAppTemplate/res/layout/header_fake.xml -->

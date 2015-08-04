@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Darko/Desktop/UI%20UPDATE/za%20codecanyon/UPDATE/android/android%20-%20AS/android-support-v7-appcompat/res/values-xlarge-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="abc_search_view_text_min_width">256dip</dimen>
+</resources>

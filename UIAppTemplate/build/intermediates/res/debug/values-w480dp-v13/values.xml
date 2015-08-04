@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Darko/Desktop/UI%20UPDATE/za%20codecanyon/UPDATE/android/android%20-%20AS/UIAppTemplate/build/intermediates/exploded-aar/android%20-%20AS/android-support-v7-appcompat/unspecified/res/values-w480dp-v13/values.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+</resources>

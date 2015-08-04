@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\StickyListHeaders\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="be3c63bc3b7cb35da8e29cf1f48ec0f369bbf4cd">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-20685a8f37556b3356b4b71f3c2dfec7df4debb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\exploded-aar\UI test\StickyListHeaders\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b588cf13dd4f00b1a1820f5dd1ed0800bced3530">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-82a20aeddbca734821f4ba3283c372caddcc87f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\libs\listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-manipulation_3.1.0-d2ab37bc1d3c95ebfdffd194184e3d1d0500d197.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\libs\listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core_3.1.0-9955cd0405d9e0886d7345307a156cfed33a889e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-333b3e1addf6d892d643d2be5979eaa81e795818.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\android-support-v7-appcompat\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c88b0ae4f2a995ed6957a78b5bf132986d4c538">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-98454ac87c14f571986b03466144fd74195bcbe1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\exploded-aar\UI test\android-support-v7-appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="de0d9eca91e6a1cc28144630a1063b42d75fd526">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-d55c645b23ef310907308e8183dfdd081e253fdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\libs\listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core-slh_3.1.0-2e6be5b25f0deda793fac69c3b873f53524a5b81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-0507291f156b1b15ca36b52df05164c83866b3a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-331b30719690a01297b96a7032f9fc9fab997d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-c65a46b053a86f0301713051e2f3c4c0d67094b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\android-support-v7-appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f7fcf82a51f15f1259768ddec7202c848110b17c">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-bb7bc3d20abd32be80fe18ac7434656961068658.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\exploded-aar\UI test\android-support-v7-appcompat\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v4-05682486de0d18b1a7de911a0867c8c7e7545efd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v4-9e5f0e3c1d065a32b64b2302ce4aae530f03a524.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core-slh_3.1.0-c210da281974b3924acf1467a833deb8f939e399.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core_3.1.0-38c5db781ddfe9472d555356170a7b839ff9f4f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\exploded-aar\UI test\android-support-v7-appcompat\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c88b0ae4f2a995ed6957a78b5bf132986d4c538">
+        <dex dex="C:\Users\Darko\Desktop\UI test\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-c296e3ee12ab11d9394e52421cfaebf07284893d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Users\Darko\Desktop\UI UPDATE\za codecanyon\UPDATE\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-manipulation_3.1.0-6fed8d53477b7e80d8dfe113ce72da57a5bd7049.jar" />
+    </item>
+
+</items>

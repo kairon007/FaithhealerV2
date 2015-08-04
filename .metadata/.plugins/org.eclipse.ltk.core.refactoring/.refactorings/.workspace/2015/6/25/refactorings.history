@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="true" description="Delete 6 resources" element1="/android-support-v7-appcompat" element2="/ListViewAnimations-core" element3="/ListViewAnimations-core-slh" element4="/MainActivity" element5="/MaterialRippleLayout" element6="/SwipeTouchListenerTestActivity" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1434639762571"/>
+</session>

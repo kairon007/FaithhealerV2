@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_view"
+    style="@style/ListViewStyle" />
+<!-- From: file:/C:/Users/Darko/Desktop/UI%20UPDATE/za%20codecanyon/UPDATE/android/android%20-%20AS/UIAppTemplate/res/layout/list_view.xml -->
